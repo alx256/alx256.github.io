@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100..700;1,100..700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="bigtext">
+        My name is Alex and I am a second year student at the University of Nottingham, studying Computer Science
+        with Artificial Intelligence. I am passionate about programming, software engineering and artificial
+        intelligence.
+        <br>
+        I am currently working on Sonny, a project being done with IBM that provides elderly users with an AI-based
+        virtual pet to fight loneliness in elderly populations.
+    </div>
+</body>

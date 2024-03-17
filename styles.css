@@ -1,0 +1,48 @@
+* {
+    font-family: "Josefin Slab", serif;
+    color: rgb(186, 186, 186);
+}
+
+body {
+    background-color: rgb(7, 2, 70);
+}
+
+h1 {
+    font-size: 650%;
+    text-align: center;
+}
+
+td {
+    padding: 34px;
+}
+
+.maintable {
+    display: flex;
+    justify-content: center;
+}
+
+.mainbutton {
+    width: 350px;
+    height: 400px;
+    font-size: 200%;
+    color: white;
+    background-color: darkslateblue;
+}
+
+.downloadbutton {
+    width: 180px;
+    height: 90px;
+    font-size: 105%;
+    color: white;
+    background-color: darkslateblue;
+}
+
+.bigtext {
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-left: 6%;
+    margin-right: 6%;
+}
