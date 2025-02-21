@@ -46,3 +46,10 @@ td {
     margin-left: 6%;
     margin-right: 6%;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
