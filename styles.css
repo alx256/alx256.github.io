@@ -21,6 +21,10 @@ td {
     justify-content: center;
 }
 
+.navbutton {
+    font-size: 170%;
+}
+
 .mainbutton {
     width: 350px;
     height: 400px;
@@ -35,6 +39,7 @@ td {
     font-size: 105%;
     color: white;
     background-color: darkslateblue;
+    border: none;
 }
 
 .bigtext {
